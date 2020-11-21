@@ -38,7 +38,8 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 4. Describe `redux-thunk`, what does it allow us to do? How does it change our `action-creators`?
 
-  Redux thunk acts as Middle ware to sit between 
+  Redux thunk acts as Middle ware to sit between  
+  
 
 5. What is your favorite state management system you've learned and this sprint? Please explain why!
 
